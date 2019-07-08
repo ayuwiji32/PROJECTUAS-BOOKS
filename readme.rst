@@ -2,3 +2,5 @@ Sebuah project UAS Pemrograman Web yang berisi perpustakaan buku mini. Disini sa
 
 Aplikasi dapat di run di :
 https://kodinganayu.000webhostapp.com/
+
+tapi masih error kalo dibuka lewat hosting, padahal di localhost bisa2 aja :(
